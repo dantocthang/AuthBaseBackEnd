@@ -1,0 +1,2 @@
+GET http://localhost:5000/post
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTg3MjgzMTIsImV4cCI6MTY1ODcyODM3Mn0.Tc1-977eTPOKOlY82zhCKoLs0RyamHAVpSg7mETfiZA
